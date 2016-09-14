@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProblemsProblem 4\MethodsPracticeProblemsProblem 4\bin\Debug\MethodsPracticeProblemsProblem 4.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProblemsProblem 4\MethodsPracticeProblemsProblem 4\bin\Debug\MethodsPracticeProblemsProblem 4.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProblemsProblem 4\MethodsPracticeProblemsProblem 4\bin\Debug\MethodsPracticeProblemsProblem 4.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProblemsProblem 4\MethodsPracticeProblemsProblem 4\obj\Debug\MethodsPracticeProblemsProblem 4.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProblemsProblem 4\MethodsPracticeProblemsProblem 4\obj\Debug\MethodsPracticeProblemsProblem 4.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodsPracticeProblemsProblem 4\MethodsPracticeProblemsProblem 4\obj\Debug\MethodsPracticeProblemsProblem 4.pdb
